@@ -1,0 +1,7 @@
+
+*.iml
+.idea
+*.pyc
+Pipfile
+Pipfile.lock
+.idea/vcs.xml
